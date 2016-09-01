@@ -1,6 +1,4 @@
-var app = angular.module('minmax', [
-    'jcs-autoValidate'
-]);
+var app = angular.module('minmax', []);
 
 
 app.controller('MinMaxCtrl', function($scope, $http){
